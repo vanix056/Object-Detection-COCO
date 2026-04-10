@@ -36,7 +36,7 @@ This project implements **real-time object detection** using a pre-trained SSD M
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vanix056/Object-Detection-COCO.git
+git clone https://github.com/MAbdullahWaqar/Object-Detection-COCO.git
 cd Object-Detection-COCO
 
 # 2. Install dependencies
@@ -144,5 +144,5 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ## Author
 
-**vanix056**
-- GitHub: [@vanix056](https://github.com/vanix056)
+**Muhammad Abdullah Waqar**
+- GitHub: [@MAbdullahWaqar](https://github.com/MAbdullahWaqar)
